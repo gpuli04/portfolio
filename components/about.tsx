@@ -27,8 +27,7 @@ export default function About() {
         junior developers and get them upto speed and guide them with best
         practices of development . My core stack is Angular , React, Next.js,
         Node.js, and MongoDB. I am also familiar with TypeScript and Express JS.
-        I am always looking to learn new technologies. I am currently looking
-        for a full-time position as a senior software developer.
+        I am always looking to learn new technologies. 
       </p>
 
       <p>
