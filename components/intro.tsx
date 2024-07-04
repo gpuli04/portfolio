@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://sandeepbanuka.github.io/portfolio/Ganesh_Profile_Img.PNG"
+              src="https://gpuli04.github.io/portfolio/Ganesh_Profile_Img.PNG"
               alt="My Profile Picture"
               width="192"
               height="192"

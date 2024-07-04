@@ -4,10 +4,13 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "sandeepbanuka.github.io",
+        hostname: "gpuli04.github.io",
       },
     ],
   }
 };
 
 module.exports = nextConfig;
+
+
+
