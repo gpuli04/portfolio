@@ -36,7 +36,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "Senior Devops Engineer",
-    location: "Hyderabad , India",
+    location: "Mumbai , India",
     description:
       "I have pursued internship in my final semester of my College. Converted as a full time after the completion of Internship.",
     icon: React.createElement(CgWorkAlt),
