@@ -63,15 +63,14 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Sandeep, </span> a{" "}
-        <span className="font-bold">full-stack developer</span> with {" "}
-        <span className="font-bold">6 years</span> of experience in building {" "}
-        <span className="italic">websites and applications</span>. My expertise
-        lies in frontend technologies such as {" "}
-        <span className="underline">React, Angular, Next JS {" "} </span>
-        as well as backend development with {" "}
-        <span className="underline">
-          Node JS and Java Spring Boot microservices
-        </span>
+<span className="font-bold">DevOps/SRE engineer</span> with {" "}
+<span className="font-bold">over 7 years</span> of experience in managing and optimizing {" "}
+<span className="italic">cloud infrastructure and deployment pipelines</span>. My expertise
+includes {" "}
+<span className="underline">AWS and Azure cloud platforms</span>{" "}
+along with comprehensive {" "}
+<span className="underline">DevOps practices</span>. I specialize in automating deployment processes, monitoring and maintaining system reliability, and ensuring robust security practices. My skills also encompass containerization with Docker and Kubernetes, continuous integration and continuous delivery (CI/CD) pipelines, infrastructure as code (IaC) with tools like Terraform, and Linux system administration.
+
         .
       </motion.h1>
 
