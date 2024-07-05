@@ -35,36 +35,52 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Senior Devops Engineer",
-    location: "Mumbai , India",
+    title: "Sr. Cloud DevOps Engineer/ Site Reliability Engineer (SRE)",
+    location: "Texas, United States",
     description:
-      "I have pursued internship in my final semester of my College. Converted as a full time after the completion of Internship.",
+      "I am currently working as Senior Cloud Enginner.My Stack incldued AWS/AZURE cloud and also Devops tools and practises.I am currently leading a team of 3 Junior Devops Engineers.I am open to Full time and C2C opportunities.",
     icon: React.createElement(CgWorkAlt),
-    date: "2018 - 2022",
+    date: "June 2024 - Present",
   },
   {
-    title: "Software Engineer",
+    title: "Analyst - Devops Services",
     location: "Hyderabad , India",
     description:
-      "I worked as a full stack developer with Angular in Frontend and Node JS in backend. Developed a Content Management System as a SaaS based product. ",
+      "I worked as a Devops Analyst leading projects in AWS/AZURE/OCI cloud. Automated infra on cloud and also involved in migration from on-premises to cloud.  ",
     icon: React.createElement(CgWorkAlt),
-    date: "2018 - 2019",
+    date: "JAN 2024 - May 2024",
   },
   {
-    title: "Senior Software Engineer",
+    title: "Associate Solution Lead - Devops",
     location: "Hyderabad , India",
     description:
-      "I worked as a senior software developer leading projects in MEAN and MERN stack and developing POCs for the business team and helping team with digital transformation of legacy projects. ",
+      "I worked as a Devops Engineer to lead a team of 60 members for provisioning and set up infrastructure on cloud and access to cloud services. Created CI/CD pipelines form the sratch for devlopment projects and also monitored application after deployemnts.Created deployments for LLM models and created sloutions for low code no code applications.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2022",
+    date: "JAN 2023 - DEC 2023",
   },
   {
-    title: "Senior Software Engineer",
-    location: "United States",
+    title: "Application Support Engineer - SRE",
+    location: "Hyderabad , India",
     description:
-      "I am currently working as a senior engineer. My stack includes Angular , React, Next.js, TypeScript, MongoDB. Currently leadng a team of 3 junior developers .I'm open to full-time opportunities.",
+      "I worked as a SRE Engineer to monitor and observe the cloud based applications using monitoring and log analysis tools.Created automation scripts for creating alerts and tickets for the applications.Managed application of Telecom domain and make sure to have high availability and reliability.Tech stack includes Splunk, APP Dynamics, Grafana, Prometheus, PCF. ",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - present",
+    date: "FEB 2020 - JAN 2023",
+  },
+  {
+    title: "Senior Executive - Devops Engineer",
+    location: "Hyderabad , India",
+    description:
+      "I worked as a Devops Engineer creating CI/CD pipelines for SaaS based applications. Implemented Devops practises on legacy applications to move applications from on premises to cloud.Developed POCs for the business team and helping team with digital transformation of legacy projects.",
+    icon: React.createElement(CgWorkAlt),
+    date: "MAR 2018 - AUG 2019",
+  },
+  {
+    title: "Junior Devops Engineer",
+    location: "Hyderabad , India",
+    description:
+      "As a fresher, I was introduced to Cloud and DevOps.Gained hands-on experience in deploying and managing applications on cloud platforms such as AWS.Developed foundational skills in Linux system administration, including scripting, user management, and network configuration.",
+    icon: React.createElement(CgWorkAlt),
+    date: "JUN 2016 - FEB 2018",
   },
 ] as const;
 
