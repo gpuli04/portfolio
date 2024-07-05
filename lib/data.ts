@@ -40,15 +40,15 @@ export const experiencesData = [
     description:
       "I am currently working as Senior Cloud Enginner.My Stack incldued AWS/AZURE cloud and also Devops tools and practises.I am currently leading a team of 3 Junior Devops Engineers.I am open to Full time and C2C opportunities.",
     icon: React.createElement(CgWorkAlt),
-    date: "June 2024 - Present",
+    date: "2024 - Present",
   },
   {
     title: "Analyst - Devops Services",
     location: "Hyderabad , India",
     description:
-      "I worked as a Devops Analyst leading projects in AWS/AZURE/OCI cloud. Automated infra on cloud and also involved in migration from on-premises to cloud.  ",
+      "I worked as a Devops Analyst leading projects in AWS/AZURE/OCI cloud. Automated infra on cloud and also involved in migration from on-premises to cloud.",
     icon: React.createElement(CgWorkAlt),
-    date: "JAN 2024 - May 2024",
+    date: "2024 - 2024",
   },
   {
     title: "Associate Solution Lead - Devops",
@@ -56,15 +56,15 @@ export const experiencesData = [
     description:
       "I worked as a Devops Engineer to lead a team of 60 members for provisioning and set up infrastructure on cloud and access to cloud services. Created CI/CD pipelines form the sratch for devlopment projects and also monitored application after deployemnts.Created deployments for LLM models and created sloutions for low code no code applications.",
     icon: React.createElement(CgWorkAlt),
-    date: "JAN 2023 - DEC 2023",
+    date: "2023 - 2023",
   },
   {
     title: "Application Support Engineer - SRE",
     location: "Hyderabad , India",
     description:
-      "I worked as a SRE Engineer to monitor and observe the cloud based applications using monitoring and log analysis tools.Created automation scripts for creating alerts and tickets for the applications.Managed application of Telecom domain and make sure to have high availability and reliability.Tech stack includes Splunk, APP Dynamics, Grafana, Prometheus, PCF. ",
+      "I worked as a SRE Engineer to monitor and observe the cloud based applications using monitoring and log analysis tools.Created automation scripts for creating alerts and tickets for the applications.Managed application of Telecom domain and make sure to have high availability and reliability.Tech stack includes Splunk, APP Dynamics, Grafana, Prometheus, PCF.",
     icon: React.createElement(CgWorkAlt),
-    date: "FEB 2020 - JAN 2023",
+    date: "2020 - 2023",
   },
   {
     title: "Senior Executive - Devops Engineer",
@@ -72,7 +72,7 @@ export const experiencesData = [
     description:
       "I worked as a Devops Engineer creating CI/CD pipelines for SaaS based applications. Implemented Devops practises on legacy applications to move applications from on premises to cloud.Developed POCs for the business team and helping team with digital transformation of legacy projects.",
     icon: React.createElement(CgWorkAlt),
-    date: "MAR 2018 - AUG 2019",
+    date: "2018 - 2019",
   },
   {
     title: "Junior Devops Engineer",
@@ -80,7 +80,7 @@ export const experiencesData = [
     description:
       "As a fresher, I was introduced to Cloud and DevOps.Gained hands-on experience in deploying and managing applications on cloud platforms such as AWS.Developed foundational skills in Linux system administration, including scripting, user management, and network configuration.",
     icon: React.createElement(CgWorkAlt),
-    date: "JUN 2016 - FEB 2018",
+    date: "2016 - 2018",
   },
 ] as const;
 
