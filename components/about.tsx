@@ -19,21 +19,20 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in Computer Science in 2018, I started my
-        career first as an intern then as a full time software engineer.While
-        working over the years I got opportunity to work in multiple domains
-        such as telecom , aviation , e-commerce. I have also worked on multiple
-        POCs for my business clients using mulltiple tech stack.I also mentor
-        junior developers and get them upto speed and guide them with best
-        practices of development . My core stack is Angular , React, Next.js,
-        Node.js, and MongoDB. I am also familiar with TypeScript and Express JS.
-        I am always looking to learn new technologies. 
+      After graduating with a degree in Information Technology in 2015, I started my
+  career as a fresher in the IT industry. Over the years, I have had the opportunity to work in multiple domains
+  such as telecom, e-commerce, and IT. I have also worked on multiple
+  proof-of-concepts (POCs) for my business clients using various tech stacks. I also mentor
+  junior DevOps engineers, helping them get up to speed and guiding them with best
+  practices in automation, cloud infrastructure, and system reliability. My core stack includes AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, and Ansible.
+  I am also familiar with monitoring tools like Prometheus and Grafana, and CI/CD pipelines.
+  I am always looking to learn new technologies and improve system reliability and automation processes.
       </p>
 
       <p>
-        When I'm not coding, I enjoy playing badminton , pickle ball , cricket,
-        watching movies and netflix. I also enjoy learning new things. I am
-        currently learning about stock market and business strategies.
+      When I'm not working, I enjoy playing badminton,Cricket,
+  watching movies, and Netflix. I also enjoy learning new things. I am
+  currently exploring the stock market and business strategies.
       </p>
     </motion.section>
   );
