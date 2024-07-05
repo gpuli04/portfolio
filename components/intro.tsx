@@ -62,7 +62,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Sandeep, </span> a{" "}
+        <span className="font-bold">Hello, I'm Ganesh, </span> a{" "}
 <span className="font-bold">DevOps/SRE engineer</span> with {" "}
 <span className="font-bold">over 7 years</span> of experience in managing and optimizing {" "}
 <span className="italic">cloud infrastructure and deployment pipelines</span>. My expertise
@@ -71,7 +71,7 @@ includes {" "}
 along with comprehensive {" "}
 <span className="underline">DevOps practices</span>. I specialize in automating deployment processes, monitoring and maintaining system reliability, and ensuring robust security practices. My skills also encompass containerization with Docker and Kubernetes, continuous integration and continuous delivery (CI/CD) pipelines, infrastructure as code (IaC) with tools like Terraform, and Linux system administration.
 
-        .
+        
       </motion.h1>
 
       <motion.div
@@ -105,7 +105,8 @@ along with comprehensive {" "}
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/sandeep-kumar-banuka-969055109/"
+          href="https://www.linkedin.com/in/ganesh-puli-sachin/"
+          
           target="_blank"
         >
           <BsLinkedin />
