@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Sr. Cloud DevOps Engineer/ Site Reliability Engineer (SRE)",
+    title: "Senior Devops Engineer",
     location: "Texas, United States",
     description:
       "I am currently working as Senior Cloud Enginner.My Stack incldued AWS/AZURE cloud and also Devops tools and practises.I am currently leading a team of 3 Junior Devops Engineers.I am open to Full time and C2C opportunities.",
@@ -51,7 +51,7 @@ export const experiencesData = [
     date: "2024 - 2024",
   },
   {
-    title: "Associate Solution Lead - Devops",
+    title: "Cloud Solution Architect",
     location: "Hyderabad , India",
     description:
       "I worked as a Devops Engineer to lead a team of 60 members for provisioning and set up infrastructure on cloud and access to cloud services. Created CI/CD pipelines form the sratch for devlopment projects and also monitored application after deployemnts.Created deployments for LLM models and created sloutions for low code no code applications.",
@@ -59,7 +59,7 @@ export const experiencesData = [
     date: "2023 - 2023",
   },
   {
-    title: "Application Support Engineer - SRE",
+    title: "Site Reliability Engineer",
     location: "Hyderabad , India",
     description:
       "I worked as a SRE Engineer to monitor and observe the cloud based applications using monitoring and log analysis tools.Created automation scripts for creating alerts and tickets for the applications.Managed application of Telecom domain and make sure to have high availability and reliability.Tech stack includes Splunk, APP Dynamics, Grafana, Prometheus, PCF.",
@@ -67,7 +67,7 @@ export const experiencesData = [
     date: "2020 - 2023",
   },
   {
-    title: "Senior Executive - Devops Engineer",
+    title: "Devops Engineer",
     location: "Hyderabad , India",
     description:
       "I worked as a Devops Engineer creating CI/CD pipelines for SaaS based applications. Implemented Devops practises on legacy applications to move applications from on premises to cloud.Developed POCs for the business team and helping team with digital transformation of legacy projects.",
@@ -75,7 +75,7 @@ export const experiencesData = [
     date: "2018 - 2019",
   },
   {
-    title: "Junior Devops Engineer",
+    title: "Devops Engineer",
     location: "Hyderabad , India",
     description:
       "As a fresher, I was introduced to Cloud and DevOps.Gained hands-on experience in deploying and managing applications on cloud platforms such as AWS.Developed foundational skills in Linux system administration, including scripting, user management, and network configuration.",
